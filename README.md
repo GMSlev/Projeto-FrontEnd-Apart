@@ -1,6 +1,6 @@
 # 🏠 Opulentia — Residências de Luxo
 
-![Uploading windows-11-dark-mode-abstract-background-black-background-3840x2160-8710.png…]()
+
 
 
 > Landing page para a marca **Opulentia Residências de Luxo**, com foco em design elegante, imersivo e responsivo.
@@ -9,7 +9,8 @@
 
 ## 📸 Preview
 
-![Banner Opulentia](apartamento.jpg)
+![Banner Opulentia](<img width="3840" height="2160" alt="windows-11-dark-mode-abstract-background-black-background-3840x2160-8710" src="https://github.com/user-attachments/assets/a24c9b88-b023-48ad-bcc4-092462d46898" />
+)
 
 ---
 
