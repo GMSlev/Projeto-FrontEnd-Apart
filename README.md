@@ -1,7 +1,7 @@
 # 🏠 Opulentia — Residências de Luxo
 
-
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 > Landing page para a marca **Opulentia Residências de Luxo**, com foco em design elegante, imersivo e responsivo.
 
@@ -9,7 +9,7 @@
 
 ## 📸 Preview
 
-!(<img width="3840" height="2160" alt="windows-11-dark-mode-abstract-background-black-background-3840x2160-8710" src="https://github.com/user-attachments/assets/a24c9b88-b023-48ad-bcc4-092462d46898" />)
+![Banner Opulentia](apartamento.jpg)
 
 ---
 
@@ -51,5 +51,13 @@ opulentia/
 - HTML5 semântico
 - CSS3 com transições e animações
 - Layout responsivo com Flexbox
-  
+
 ---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+---
+
+<p align="center">Feito com ❤️ para <strong>Opulentia Residências de Luxo</strong></p>
