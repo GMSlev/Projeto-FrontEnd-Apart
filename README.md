@@ -46,29 +46,10 @@ opulentia/
 
 ---
 
-## 🚀 Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/opulentia.git
-```
-
-2. Abra o arquivo `index.html` no navegador — nenhuma dependência necessária.
-
----
-
 ## 📌 Tecnologias
 
 - HTML5 semântico
 - CSS3 com transições e animações
 - Layout responsivo com Flexbox
-
+  
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-<p align="center">Feito com ❤️ para <strong>Opulentia Residências de Luxo</strong></p>
