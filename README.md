@@ -9,8 +9,7 @@
 
 ## 📸 Preview
 
-![Banner Opulentia](<img width="3840" height="2160" alt="windows-11-dark-mode-abstract-background-black-background-3840x2160-8710" src="https://github.com/user-attachments/assets/a24c9b88-b023-48ad-bcc4-092462d46898" />
-)
+!(<img width="3840" height="2160" alt="windows-11-dark-mode-abstract-background-black-background-3840x2160-8710" src="https://github.com/user-attachments/assets/a24c9b88-b023-48ad-bcc4-092462d46898" />)
 
 ---
 
